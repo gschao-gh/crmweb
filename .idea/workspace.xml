@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95f5b2c7-7372-4f0b-90ed-f6b6ec085602" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/index.jsp" afterPath="$PROJECT_DIR$/webapp/index.jsp" />
-    </list>
+    <list default="true" id="95f5b2c7-7372-4f0b-90ed-f6b6ec085602" name="Default" comment="" />
     <ignored path="crmweb.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -854,7 +852,7 @@
       <created>1469448213052</created>
       <option name="number" value="Default" />
       <updated>1469448213052</updated>
-      <workItem from="1469448215827" duration="1954000" />
+      <workItem from="1469448215827" duration="2515000" />
     </task>
     <task id="LOCAL-00001" summary="mkdir">
       <created>1469449545931</created>
@@ -866,7 +864,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1954000" />
+    <option name="totallyTimeSpent" value="2515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
