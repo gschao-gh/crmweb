@@ -4,6 +4,7 @@
 public class Test {
 	@Override
 	public String toString() {
+		System.out.println("test");
 		return super.toString();
 	}
 }
